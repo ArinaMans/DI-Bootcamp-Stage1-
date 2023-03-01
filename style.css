@@ -1,0 +1,131 @@
+
+body{
+    background-color: black;
+}
+
+#top {
+    padding-top: 0.20%;
+    padding-bottom: 0.20%;
+    background-color: black;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menu li a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    align-items: center; 
+}
+#middle {
+    position: relative;
+    top: 850px;
+    background-color: black;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.info li{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    align-items: center; 
+}
+.info2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#image {
+    position: absolute;
+    top: 30%;
+    left: 22%;
+}
+
+h2 {
+    color:white;
+    font-family: 'Wire One', sans-serif;
+    font-size: 170%;
+    text-align: center;
+}
+h3 {
+    color: rgb(189, 185, 185);
+    font-size: 100%;
+    text-align: center;
+    font-family: 'Wire One', sans-serif;
+}
+
+h4{
+    text-align: left;
+    color: white;
+    font-family: 'Wire One', sans-serif;
+    font-size: 120%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Wire One', sans-serif;
+    font-style: bold;
+}
+
+#text{
+    position: relative;
+    top: 190px;
+  right: 300px;
+}
+
+#bottom{
+    position: relative;
+    top: 600px;
+    left: 290px;
+    background-color: black;
+}
+
+
+#bottom2{
+    position: relative;
+    top: 900px;
+    background-color: rgb(162, 158, 158);
+}
+
+#awards{
+    position: relative;
+    top: 900px;
+    background-color: black;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.list li{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    align-items: center; 
+}
+#end{
+    position: relative;
+    top: 850px;
+    margin: 10%;
+    padding: 0.05%;
+    background-color: rgb(40, 40, 40); 
+}
+#end h4 a {
+    color: white;
+}
+
+
+
